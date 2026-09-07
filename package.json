@@ -1,0 +1,12 @@
+{
+  "name": "lista-plantas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lista compartida de plantas por invernadero",
+  "dependencies": {
+    "@vercel/postgres": "latest"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
